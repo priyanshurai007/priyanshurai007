@@ -3,7 +3,7 @@
 I'm a recent Information Technology graduate (Class of 2023) with a passion for coding and problem-solving. My journey in the world of technology has led me to explore various fields, and I'm excited to share my journey with you.
 
 - 🎓 Graduated in 2023 with a degree in Information Technology.
-- 🌟 GATE 2023 qualifier in Computer Science and Engineering.
+- 🌟 GATE 2024 qualifier in Computer Science and Engineering.
 - 💻 Proficient in technologies such as JavaScript, HTML, CSS, SQL, and Python.
 - 📚 Currently expanding my knowledge in machine learning and data science.
 - 👨‍💻 Actively seeking opportunities to contribute to open-source projects.
